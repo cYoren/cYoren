@@ -18,6 +18,7 @@ Most of what I write is software for a shift: a self-hosted tracker for my own s
 
 ## Open-source works
 
+- **[Aleph](https://github.com/cYoren/Aleph)** [![GitHub stars](https://img.shields.io/github/stars/cYoren/Aleph?style=flat&color=gold)](https://github.com/cYoren/Aleph): original-language Bible reader for iOS, Android and macOS, with Hebrew and Greek text, word-level lexicon and morphology, and everything offline.
 - **[Datalyst](https://github.com/cYoren/datalyst)** [![GitHub stars](https://img.shields.io/github/stars/cYoren/datalyst?style=flat&color=gold)](https://github.com/cYoren/datalyst): symptoms, sleep, mood, habits and money logged in a few seconds a day, then n-of-1 experiments with randomized schedules and power analysis. Self-hosted and MCP-ready.
 - **[Licitações MCP](https://github.com/cYoren/licitacoes-mcp)** [![GitHub stars](https://img.shields.io/github/stars/cYoren/licitacoes-mcp?style=flat&color=gold)](https://github.com/cYoren/licitacoes-mcp): read-only MCP server over PNCP and Compras.gov.br open data, with tools for finding a tender, reading its details and comparing prices.
 - **[Speedready](https://github.com/cYoren/speedready)** [![GitHub stars](https://img.shields.io/github/stars/cYoren/speedready?style=flat&color=gold)](https://github.com/cYoren/speedready): pacer and RSVP reader for epubs, with the translation sitting above every word you have not marked as learned. GTK4, plus a [web version](https://speedready.vercel.app).
