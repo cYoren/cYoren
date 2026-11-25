@@ -11,9 +11,27 @@ I write the software I want to use: clinical tools for a shift, a tracker for my
 
 <p align="center">
   <!-- counters:start -->
-  <b>6,757</b> commits &nbsp;·&nbsp; <b>1,478</b> pull requests &nbsp;·&nbsp; <b>224</b> reviews &nbsp;·&nbsp; <b>19</b> original repos
+  <b>6,846</b> commits &nbsp;·&nbsp; <b>1,494</b> pull requests &nbsp;·&nbsp; <b>229</b> reviews &nbsp;·&nbsp; <b>20</b> original repos
   <!-- counters:end -->
 </p>
+
+<!-- weekly-contributions:start -->
+## This week
+
+A short record of what I worked on, what I researched, and what I built after hours. Updated weekly from merged work and public project activity. This update covers November 18 to 25, 2026.
+
+### Work
+
+- MedHub privacy and data-use updates across the apps and both websites: [apps](https://github.com/cYoren/medhub-apps/pull/305), [Brazil](https://github.com/cYoren/medhub-brasil/pull/217), [international](https://github.com/cYoren/medhub-international/pull/156).
+
+### Research
+
+- Published source-backed clinical guides for dengue, asthma attacks, bronchiolitis, diarrhoea, heart failure, atrial fibrillation, acute coronary syndrome and hyperkalaemia: [first set](https://github.com/cYoren/medhub-clinical/pull/246), [second set](https://github.com/cYoren/medhub-clinical/pull/247).
+
+### After hours
+
+- Kept building [ASCII Paper Pro](https://github.com/cYoren/asciipaper-pro/pull/49), including a Windows self-test that restores the desktop after testing and a launch path that reports failures.
+<!-- weekly-contributions:end -->
 
 ## What I build
 
