@@ -9,28 +9,22 @@ Physician in Brazil. Neurology next, in Niedersachsen.
 
 I write the software I want to use: clinical tools for a shift, a tracker for my own symptoms, and an engine that turns a shader into ASCII.
 
-<p align="center">
-  <!-- counters:start -->
-  <b>6,846</b> commits &nbsp;·&nbsp; <b>1,494</b> pull requests &nbsp;·&nbsp; <b>229</b> reviews &nbsp;·&nbsp; <b>20</b> original repos
-  <!-- counters:end -->
-</p>
-
 <!-- weekly-contributions:start -->
-## This week
+## Open-source work
 
-A short record of what I worked on, what I researched, and what I built after hours. Updated weekly from merged work and public project activity. This update covers November 18 to 25, 2026.
+These are public projects I contribute to or build.
 
 ### Work
 
-- MedHub privacy and data-use updates across the apps and both websites: [apps](https://github.com/cYoren/medhub-apps/pull/305), [Brazil](https://github.com/cYoren/medhub-brasil/pull/217), [international](https://github.com/cYoren/medhub-international/pull/156).
+I send fixes upstream to developer tools I use, including [Hermes Agent](https://github.com/NousResearch/hermes-agent), [OpenCode](https://github.com/anomalyco/opencode), and [OpenNext](https://github.com/opennextjs/opennextjs-aws).
 
 ### Research
 
-- Published source-backed clinical guides for dengue, asthma attacks, bronchiolitis, diarrhoea, heart failure, atrial fibrillation, acute coronary syndrome and hyperkalaemia: [first set](https://github.com/cYoren/medhub-clinical/pull/246), [second set](https://github.com/cYoren/medhub-clinical/pull/247).
+My public work in computational neuroscience includes [cross-parcellation structure-function coupling](https://github.com/cYoren/SC-FC_coupling) and [hands-on neuroscience resources](https://github.com/cYoren/awesome-hands-on-neuroscience).
 
 ### After hours
 
-- Kept building [ASCII Paper Pro](https://github.com/cYoren/asciipaper-pro/pull/49), including a Windows self-test that restores the desktop after testing and a launch path that reports failures.
+[ASCII Paper](https://github.com/cYoren/asciipaper-engine) turns a GLSL shader into animated ASCII, live wallpapers, and browser backgrounds.
 <!-- weekly-contributions:end -->
 
 ## What I build
@@ -53,7 +47,7 @@ A short record of what I worked on, what I researched, and what I built after ho
 
 ## Medicine
 
-Medicine at Universidade Anhembi Morumbi, 7,480 curricular hours. Neurology elective at HCFMUSP, through the University of São Paulo, graded 10/10. Licence recognition in Niedersachsen is in progress, and the Fachsprachprüfung comes next.
+Medical training in Brazil. My neurology elective at HCFMUSP was graded 10/10. Licence recognition in Niedersachsen is in progress, and the Fachsprachprüfung comes next.
 
 First author on a case report about endocrinopathies caused by pembrolizumab, in the *Brazilian Journal of Case Reports*: [doi:10.52600/2763-583X.bjcr.2025.5.1.bjcr15](https://doi.org/10.52600/2763-583X.bjcr.2025.5.1.bjcr15).
 
@@ -66,4 +60,4 @@ Structure to function coupling across brain parcellations, a dichotic listening 
   <a href="mailto:gustavo.cesar.marcelino4@gmail.com">email</a>
 </p>
 
-<sub>The counters come from the GitHub API through <a href="tools/refresh.py"><code>tools/refresh.py</code></a>. The banner is a recorded loop of the engine, made by <a href="tools/record-banner.mjs"><code>tools/record-banner.mjs</code></a>.</sub>
+<sub>The banner is a recorded loop of the engine, made by <a href="tools/record-banner.mjs"><code>tools/record-banner.mjs</code></a>.</sub>
