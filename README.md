@@ -1,13 +1,13 @@
 <p align="center">
   <picture>
     <source srcset="assets/banner.webp" type="image/webp">
-    <img alt="ASCII fluid animation, rendered by the ASCII Paper engine" src="assets/still.png" width="100%">
+    <img alt="Animated ASCII shader artwork" src="assets/still.png" width="100%">
   </picture>
 </p>
 
 Physician in Brazil. Neurology next, in Niedersachsen.
 
-I write the software I want to use: clinical tools for a shift, a tracker for my own symptoms, and an engine that turns a shader into ASCII.
+I write software I want to use: clinical tools for a shift and a tracker for my own symptoms.
 
 <!-- weekly-contributions:start -->
 ## Open-source work
@@ -37,9 +37,6 @@ My public work in computational neuroscience includes [cross-parcellation struct
 **Datalyst.** Records symptoms, sleep, mood, habits and money in a few seconds a day, then runs experiments on yourself. Self-hosted and open source.
 [github.com/cYoren/datalyst](https://github.com/cYoren/datalyst)
 
-**ASCII Paper.** One GLSL function rendered as animated ASCII on the GPU. Live wallpapers for Android, Windows, macOS and Linux, plus a browser new tab. The banner above is this engine.
-[run it in a browser](https://cyoren.github.io/asciipaper/) · [engine](https://github.com/cYoren/asciipaper-engine)
-
 **Advanced Dual N-Back.** Working memory training scored the way the studies score it: d-prime at fine N steps, personal baselines, programs, backups. On the App Store and Google Play.
 
 **Puzzlestack · Speedready · Sightread.** A puzzle collection in Flutter, an RSVP reader for language learners with a web version, and a piano app that turns sight reading into a reflex.
@@ -51,7 +48,7 @@ Medical training in Brazil. My neurology elective at HCFMUSP was graded 10/10. L
 
 First author on a case report about endocrinopathies caused by pembrolizumab, in the *Brazilian Journal of Case Reports*: [doi:10.52600/2763-583X.bjcr.2025.5.1.bjcr15](https://doi.org/10.52600/2763-583X.bjcr.2025.5.1.bjcr15).
 
-Structure to function coupling across brain parcellations, a dichotic listening trainer, a set of neuroscience notebooks, and a temperament for an agent drawn from a 32 byte seed are all on GitHub.
+A dichotic listening trainer and neuroscience notebooks are also on GitHub.
 
 <p align="center">
   <a href="https://github.com/cYoren">GitHub</a> ·
